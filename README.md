@@ -82,5 +82,12 @@ This project showcases the ability to not only manage large datasets but also to
 
 #Output
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3d4482ca-d0cf-4a90-b808-ba46fd4de99a" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a886456a-26a5-40b0-af59-53cc9d49c252" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4ae4c008-eeed-4a52-869a-e4444ba134f1" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a1cc43cb-6105-4562-9932-19b2a183aad9" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6330c775-7350-492a-8d49-11d09c2dc0ec" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/da2ce943-575a-41fc-92dc-c6887e52f927" />
+
 
 
