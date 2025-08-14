@@ -80,13 +80,7 @@ The skills and methodology demonstrated in this task are applicable to several r
 
 This project showcases the ability to not only manage large datasets but also to extract actionable insights, making it a valuable skill set for roles in Data Analytics, BI, and Data Engineering.
 
-# OUTPUT
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0835e2cd-5698-429a-8026-ed4ac3b6f95e" />
+#Output
 
 
 
-
-Visualization – A bar chart showing the top countries by total revenue was created using Matplotlib.
-
-Exporting Results – Summary CSV files (daily events and purchases by country) were saved for further reporting.
